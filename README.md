@@ -1,2 +1,2 @@
 # siir
-gökküşğı şiiri
+gökküşağı şiiri
